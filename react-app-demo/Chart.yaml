@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: react-app-demo
+description: Chart to configure ArgoCD with the react-app-demo project and its applications
