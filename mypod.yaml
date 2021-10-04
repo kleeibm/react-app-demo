@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: mypod
+spec:
+  containers:
+    - name: mypod-container
+      image: private.us.icr.io/ref-arch-demo-rg/react-app-demo:0.0.2
